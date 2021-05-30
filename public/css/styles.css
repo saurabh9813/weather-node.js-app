@@ -10,6 +10,10 @@ body {
     min-height: 100vh
 }
 
+img {
+    margin-top: 10px;
+}
+
 table {
     color: #808080;
     font-size: small;
